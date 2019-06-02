@@ -1,0 +1,14 @@
+uuid: fc13359c-f4c0-4fe6-8b28-af1d0cf9c07f
+name: Live
+mail: hr_gadev@abv.bg
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
